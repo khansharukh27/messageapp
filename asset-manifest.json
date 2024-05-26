@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/messageapp/static/css/main.d461f840.css",
+    "main.js": "/messageapp/static/js/main.16f00677.js",
+    "static/js/592.b98af5c7.chunk.js": "/messageapp/static/js/592.b98af5c7.chunk.js",
+    "static/media/cellPhone.svg": "/messageapp/static/media/cellPhone.b51bf6e46c1df46c9302ee46a719e118.svg",
+    "static/media/manAvtar.svg": "/messageapp/static/media/manAvtar.a306a1e798b562d7cd265e2a4219fd89.svg",
+    "index.html": "/messageapp/index.html",
+    "main.d461f840.css.map": "/messageapp/static/css/main.d461f840.css.map",
+    "main.16f00677.js.map": "/messageapp/static/js/main.16f00677.js.map",
+    "592.b98af5c7.chunk.js.map": "/messageapp/static/js/592.b98af5c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d461f840.css",
+    "static/js/main.16f00677.js"
+  ]
+}
