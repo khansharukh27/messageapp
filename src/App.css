@@ -1,0 +1,9 @@
+.App {
+ 
+}
+.buttonMain{
+  border: 1px solid grey;
+  height: 600px;
+  display: flex;
+  flex-direction: column;  
+}

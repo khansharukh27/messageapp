@@ -1,0 +1,66 @@
+/* General styling for the main container */
+.main {
+    display: flex;
+    /* flex-direction: ; */
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    min-height: 100vh;
+  }
+  
+  /* Styling for the main content area */
+  .main2 {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the user data section */
+  .userData {
+    margin-bottom: 20px;
+  }
+  
+  .userData h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .userData p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  /* Styling for error messages */
+  .error {
+    color: red;
+    font-size: 1.2em;
+  }
+  
+  /* Styling for buttons */
+  .button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add responsive design for smaller screens */
+  @media (max-width: 600px) {
+    .main2 {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+  
